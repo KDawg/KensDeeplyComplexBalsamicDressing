@@ -17,6 +17,7 @@ I've found this dressing best matches up with a hearty salad consisting of one o
 - Spinach
 - Parsley
 - Lacinto Kale
+![alt text](https://github.com/KDawg/KensDeeplyComplexBalsamicDressing/raw/master/Salad.jpg "Salad Sample")
 
 # Future
 Try making this in good health. Enjoy it fully, openly, as I have offered this up to
